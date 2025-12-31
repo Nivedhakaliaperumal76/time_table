@@ -137,7 +137,8 @@ text-align:center
 </html>
 
 # OUTPUT 
-![timetable](https://github.com/user-attachments/assets/c0316c8b-3bfa-46ae-9957-a0f0e9653e01)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7c4a618-1384-4e2f-a403-e7c329c6e525" />
+
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
